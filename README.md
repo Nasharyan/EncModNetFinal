@@ -4,6 +4,16 @@
 
 This project demonstrates the integration of cryptography techniques with machine learning for classifying encrypted texts based on their encryption modes (ECB, CBC, OFB). It involves generating random sentences, encrypting them using different AES modes, storing the data, and applying machine learning models to classify the encryption modes.
 
+## Contributors
+
+This project was collaboratively developed by:
+
+- Aryan Rawat (https://www.linkedin.com/in/aryan-rawat-76598a223/)
+- Kshitij Tiwari (https://www.linkedin.com/in/kshitij-tiwari-917697188/)
+- Bhavya Shukla (https://www.linkedin.com/in/bhavya-shukla-293328223/)
+- Akarshan Nigam (https://www.linkedin.com/in/anigam2610/)
+
+
 ## Modules
 
 The project is divided into three main modules:
